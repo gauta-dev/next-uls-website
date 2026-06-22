@@ -21,6 +21,11 @@ const SiteHead = () => {
         name="google-site-verification"
         content="J3NvBHqFM5m-dZwgWKbRShz4I_cMt-IFlTGBoTqeoWk"
       />
+      {/* Upper Level */}
+      <meta
+        name="google-site-verification"
+        content="DEGTSuFn03VacnMQULk2WZDYw6EzS0qzRyC7FdeXcq0"
+      />
       <link rel="icon" href="/favicon.ico" />
     </Head>
   );
